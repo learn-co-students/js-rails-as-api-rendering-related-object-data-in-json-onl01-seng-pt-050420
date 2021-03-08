@@ -4,7 +4,7 @@
 
 - Review Rails generators
 - Render related models as nested JSON data
-
+ 
 ## Introduction
 
 Using `only` and `except`, we can be selective in what attributes we want to
